@@ -20,7 +20,7 @@ Jouez jusqu'à ce que la tour tombe.
 
 > Ce jeux permet de relativiser quant aux estimations faites sur vos différentes tâche.
   
-> Il permet notamment de prouver que le facteur TEMPS ne doit JAMAIS faire partie de votre réflexion. Car si vous n'avez pas fini, c'est que l'estimation n'était pas adéquate, et non pas que vous avez "manqué de temps" !!!
+> Il permet notamment de prouver que le facteur TEMPS ne doit JAMAIS faire partie de votre réflexion. Car si vous n'avez pas fini, c'est que l'estimation n'était pas adéquate et non pas que vous avez "manqué de temps" !!!
 
 ### 🔑 Etapes d'analyse du "jeux" 
 - [x] Quelles sont les risques et incertitudes?
