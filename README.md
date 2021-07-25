@@ -10,7 +10,7 @@
 4. Notez les points importants rencontrés pour faciliter votre prochaine estimation.
 5. Recommencez en adaptant vos estimations.
 
-### JENGA pour les NULLABLE<T> (lol si t'as la ref)
+### JENGA pour les NULLable<T> (lol si t'as la ref)
 Avec beaucoup de précautions, retirez un bloc de n'importe quel niveau à l'exception du dessus.
 Reposez le bloc sur le dessus de la tour, en respectant le sens de pose "alterné".
 Jouez jusqu'à ce que la tour tombe. 
