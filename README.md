@@ -20,13 +20,11 @@ Leçon
 
 > Ce jeux permet de relativiser quant aux estimations faites sur vos différentes tâche.
   
-> Il permet notamment de prouver que le facteur TEMPS ne doit JAMAIS faire partie de votre réflexion.
-  
-> Car si vous n'avez pas fini, c'est que l'estimation n'était pas adéquate, et non pas que vous avez "manqué de temps" !!!
+> Il permet notamment de prouver que le facteur TEMPS ne doit JAMAIS faire partie de votre réflexion. Car si vous n'avez pas fini, c'est que l'estimation n'était pas adéquate, et non pas que vous avez "manqué de temps" !!!
 
 Les étapes d'analyse du "jeux" 
 - [x] Quelles sont les risques et incertitudes?
-- [x] Avons-nous suffisament de connaissance business? 
+- [x] Avons-nous suffisament de connaissance business (métier)? 
 - [x] Avons-nous suffisament de connaissance technique? 
 - [x] Si j'ai déjà travaillé sur une tâche similaire, quel estimation avais-je faite? 
 - [x] Quelqu'un a-t'il déjà travaillé sur une tâche similaire, peut-il m'aider à estimer?
