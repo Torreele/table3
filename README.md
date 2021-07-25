@@ -6,11 +6,15 @@
 ### But du jeux
 1. Estimez combien de blocs en bois **L'EQUIPE** est capable de retirer avant que la tour ne s'écroule? 
 2. Notez votre estimation en début de partie !
-3. Recommencez X fois en adaptant vos estimations.
+3. La tour est tombée? Quelle a été votre estimation d'équipe? Est-elle correcte? Pourquoi?
+4. Notez les points importants rencontrés pour faciliter votre prochaine estimation.
+5. Recommencez en adaptant vos estimations.
 
-### Règles
-Retirez un bloc. Avec beaucoup de précautions, retirez un bloc de n'importe quel niveau à l'exception du dessus.
-Jouez jusqu'à ce que la tour tombe. Le perdant est le joueur qui entraîne la chute de la pile, soit en enlevant, soit en posant un bloc. 
+### Règles pour les [NULLABLE<T>](https://docs.microsoft.com/en-us/dotnet/api/system.nullable-1?view=net-5.0)
+Avec beaucoup de précautions, retirez un bloc de n'importe quel niveau à l'exception du dessus.
+Reposez le bloc sur le dessus de la tour, en respectant le sens de pose "alterné".
+Jouez jusqu'à ce que la tour tombe. 
+
 
 - [x] Etre le dernier joueur à déplacer un bloc de bois sans faire tomber la tour
 
