@@ -4,9 +4,9 @@
 ### ⏱ 15' 
 
 ### But du jeux
-1-Estimez combien de blocs en bois **L'EQUIPE** est capable de retirer avant que la tour ne s'écroule? 
-2-Notez votre estimation en début de partie !
-3-Recommencez X fois en adaptant vos estimations.
+1. Estimez combien de blocs en bois **L'EQUIPE** est capable de retirer avant que la tour ne s'écroule? 
+2. Notez votre estimation en début de partie !
+3. Recommencez X fois en adaptant vos estimations.
 
 ### Règles
 Retirez un bloc. Avec beaucoup de précautions, retirez un bloc de n'importe quel niveau à l'exception du dessus.
