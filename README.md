@@ -18,7 +18,7 @@ Jouez jusqu'à ce que la tour tombe.
 
 ### ⭐⭐⭐ Leçons
 
-> Ce jeux permet de relativiser quant aux estimations faites sur vos différentes tâche.
+> Ce jeux permet de relativiser quant aux estimations faites sur vos différentes tâches au quotidien.
   
 > Il permet notamment de prouver que le facteur TEMPS ne doit JAMAIS faire partie de votre réflexion. Car si vous n'avez pas fini, c'est que l'estimation n'était pas adéquate et non pas que vous avez "manqué de temps" !!!
 
