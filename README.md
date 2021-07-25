@@ -1,5 +1,5 @@
 # Table 3
-## JENGA - Story points | estimations
+## JENGA - Story points | estimations en équipe
 
 ### ⏱ 15' 
 
